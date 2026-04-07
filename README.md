@@ -4,10 +4,11 @@
 
 ## Authors
 
-**Mingzhu Xu**<sup>1</sup>, **Jing Wang**<sup>1</sup>, **Mingcai Wang**<sup>1</sup>, **Yiping Li**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Xuemeng Song**<sup>2</sup>, **Weili Guan**<sup>2</sup>
+**Mingzhu Xu**<sup>1</sup>, **Jing Wang**<sup>1</sup>, **Mingcai Wang**<sup>1</sup>, **Yiping Li**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Xuemeng Song**<sup>2</sup>\*, **Weili Guan**<sup>3</sup>
 
 <sup>1</sup> `Shandong University`  
-<sup>2</sup> `Harbin Institute of Technology (Shen Zhen)`  
+<sup>2</sup> `City University of Hong Kong`  
+<sup>3</sup> `Harbin Institute of Technology (Shen Zhen)`  
 \* Corresponding author
 
 ## Links
@@ -19,7 +20,6 @@
 
 ## Table of Contents
 
-- [Updates](#updates)
 - [Introduction](#introduction)
 - [Highlights](#highlights)
 - [Project Structure](#project-structure)
@@ -29,13 +29,6 @@
 - [Usage](#usage)
 - [Citation](#citation)
 - [License](#license)
-
----
-
-## Updates
-
-- [04/2026] Initial release of HMKD training and testing codes.
-- [01/2025] Paper accepted by ICMR 2025.
 
 ---
 
