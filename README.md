@@ -13,8 +13,8 @@
 
 ## Links
 
-- **Paper**: [`ICMR 2025`](#)
-- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/HMKD-ICMR)
+- **Paper**: [`ICMR 2025`](https://dl.acm.org/doi/abs/10.1145/3731715.3733354)
+- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/ICMR25-HMKD)
 
 ---
 
@@ -142,11 +142,18 @@ python evaluate.py --model_id HMKD --dataset cityscapes
 If you use this code or method in your research, please cite our paper:
 
 ```bibtex
-@ARTICLE{HMKD,
-  author={Xu, Mingzhu and Wang, Jing and Wang, Mingcai and Li, Yiping and Hu, Yupeng and Song, Xuemeng and Guan, Weili},
-  journal={ICMR}, 
-  title={Heterogeneous Model Knowledge Distillation via Dual Alignment for Semantic Segmentation}, 
-  year={2025}
+@inproceedings{HMKD2025ICMR,
+author = {Xu, Mingzhu and Wang, Jing and Wang, Mingcai and Li, Yiping and Hu, Yupeng and Song, Xuemeng and Guan, Weili},
+title = {Heterogeneous Model Knowledge Distillation via Dual Alignment for Semantic Segmentation},
+year = {2025},
+isbn = {9798400718779},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3731715.3733354},
+pages = {1635–1643},
+numpages = {9},
+location = {Chicago, IL, USA},
+series = {ICMR '25}
 }
 ```
 
